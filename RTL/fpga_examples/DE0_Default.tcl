@@ -17,6 +17,7 @@
 # Generated on: Sun Dec 08 01:05:20 2024
 
 # Load Quartus II Tcl Project package
+# 20241208 , edit by meir-tools , create to work with fpga usb device
 package require ::quartus::project
 
 set need_to_close_project 0
